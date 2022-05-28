@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size:1.25rem;
+    font-family: Nunito,Helvetica;
+    line-height: 1.2rem;
+ 
+}
+ul{
+    list-style: none;
+}
+.math-head .heading{
+    color:rgb(41, 146, 226) ;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform:capitalize;
+    font-family: Nunito,Helvetica;
+}
+.math-head h4{
+    font-family: Nunito,Helvetica;
+    font-weight:700; 
+}
+.text p{
+    font-size: 1rem;
+    font-weight:400;
+}
+.ul-listing ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ul-listing ul li{
+    font-size: 1.25rem;
+    font-weight: 500;
+    font-family: Nunito,Helvetica;
+}
+.header-card .card-body{
+    text-align: center;
+    padding:1.6rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: Nunito,Helvetica;
+    color: rgba(41, 40, 40, 0.707) !important;
+}
+.c-img{
+    width: 500px;
+
+
+}
+.c-content{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+.batch-cont{
+    border-top:1px solid rgb(212, 208, 208);
+}
+.batch span h3{
+    margin-top: 8px;
+    font-family: Nunito,Helvetica;
+    font-weight:700; 
+}
+.batch-card{
+    margin-top: 2rem;
+    border-radius:1rem !important;
+}
+.detail{
+    color:rgb(41, 146, 226) ;
+    font-weight: 500;
+    font-family: Nunito,Helvetica;
+}
+.batch-card .card-header{
+    margin-top: .6rem;
+    border: none;
+    background-color: #fff;
+    color:rgb(41, 146, 226) ;
+}
+.batch-card .card-header h4{
+    font-weight: 600;
+}
+.batch-card .card-body p{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: Nunito,Helvetica;
+}
+.footer-link{
+    list-style: none;
+    padding: 10px 0px;
+}
+.footer-link li:first-child{
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+.footer-link li{
+    margin-bottom: .5rem;
+}
+.footer-link li a {
+    color: black;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.footer-link li a:hover{
+    color: #fff;
+}
+.footer{
+    background-color: #bddc78;
+    margin-top: 1.8rem;
+}
+.copyright{
+    color: #000;
+}
+.i-link li i{
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+.i-link li a i:hover{
+    color: blue;
+}
