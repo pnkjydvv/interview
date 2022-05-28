@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interview/static/css/main.78c35bed.css",
+    "main.js": "/interview/static/js/main.feef89e5.js",
+    "static/media/mental-math.png": "/interview/static/media/mental-math.208c4c2f18bbb52ae392.png",
+    "static/media/YoungLabsLogo.webp": "/interview/static/media/YoungLabsLogo.670c10f012cd411844e0.webp",
+    "index.html": "/interview/index.html",
+    "main.78c35bed.css.map": "/interview/static/css/main.78c35bed.css.map",
+    "main.feef89e5.js.map": "/interview/static/js/main.feef89e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c35bed.css",
+    "static/js/main.feef89e5.js"
+  ]
+}
